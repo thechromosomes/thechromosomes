@@ -8,7 +8,7 @@ I'm a Software Developer with over 5 years of hands-on experience in building sc
 
 **Location:** Noida, Uttar Pradesh, India  
 **Email:** thesagar.sk@gmail.com  
-**Portfolio:** [thechromosomes.github.io](https://thechromosomes.github.io)
+**Portfolio:** [thechromosomes.github.io](https://thechromosomes.github.io)   
 **Website:** [chromosome.live](https://chromosome.live)
 
 ## What I Do
@@ -98,7 +98,7 @@ I'm always interested in discussing new opportunities, sharing knowledge, or col
 **Portfolio:** [thechromosomes.github.io](https://thechromosomes.github.io)  
 **LinkedIn:** [linkedin.com/in/chromosome](https://www.linkedin.com/in/chromosome)  
 **Email:** thesagar.sk@gmail.com  
-**Mobile:** +91 8650595010
+**Mobile:** +91 8650595010  
 **Website:** [chromosome.live](https://chromosome.live)
 
 ---
