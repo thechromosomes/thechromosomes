@@ -9,6 +9,7 @@ I'm a Software Developer with over 5 years of hands-on experience in building sc
 **Location:** Noida, Uttar Pradesh, India  
 **Email:** thesagar.sk@gmail.com  
 **Portfolio:** [thechromosomes.github.io](https://thechromosomes.github.io)
+**Website:** [chromosome.live](https://chromosome.live)
 
 ## What I Do
 
@@ -24,34 +25,34 @@ I specialize in building scalable web applications using modern JavaScript techn
 ## Technical Skills
 
 ### Languages & Frameworks
-- **JavaScript (ES6+)** - 83%
-- **Node.js** - 81%
-- **Vue.js** - 89%
-- **React** - 39%
-- **HTML5** - 64%
-- **CSS3** - 42%
+- **JavaScript (ES6+)** 
+- **Node.js** 
+- **Vue.js** 
+- **React** 
+- **HTML5** 
+- **CSS3** 
 - **TypeScript**
 
 ### Databases
-- **MongoDB** - 79%
-- **MySQL** - 52%
+- **MongoDB** 
+- **MySQL**
+- **Neo4j**
 
 ### DevOps & Tools
-- **Docker** - 49%
+- **Docker** 
 - **Linux**
 - **Git**
 - **AWS**
 - **Azure**
 - **NGINX**
 - **CI/CD**
-- **Bootstrap** - 45%
 
 ## Professional Experience
 
 ### Software Developer | UST
 *Feb 2023 - Present (2 yrs 7 mos)*
 - Working with modern JavaScript technologies and cloud platforms
-- Hybrid work environment
+- Research and development
 
 ### Development Lead | GreenHonchos
 *Jan 2021 - Nov 2022 (1 yr 11 mos)*
@@ -77,26 +78,6 @@ I specialize in building scalable web applications using modern JavaScript techn
 - Implemented security and data protection measures
 - Collaborated with data scientists to improve software functionality
 
-## Education
-
-**Information Technology**  
-Earthinators Climate School (2015 - 2018)
-
-**Science, Biology/Biological Sciences**  
-Jawahar Navodaya Vidyalaya, Champawat (2007 - 2015)
-
-## Featured Projects
-
-My portfolio includes diverse projects spanning:
-- **E-Commerce Solutions**
-- **Weather Applications**
-- **Authentication Systems**
-- **Content Management Systems**
-- **Survey and Exam Portals**
-- **Real-time Chat Applications**
-- **Data Visualization Tools**
-
-Visit my [portfolio](https://thechromosomes.github.io) to explore my complete project showcase.
 
 ## What Drives Me
 
@@ -118,6 +99,7 @@ I'm always interested in discussing new opportunities, sharing knowledge, or col
 **LinkedIn:** [linkedin.com/in/chromosome](https://www.linkedin.com/in/chromosome)  
 **Email:** thesagar.sk@gmail.com  
 **Mobile:** +91 8650595010
+**Website:** [chromosome.live](https://chromosome.live)
 
 ---
 
